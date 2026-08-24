@@ -1,5 +1,5 @@
+// write a programe to calculate the factorial of given number.
 #include <stdio.h>
-
 int main()
 {
     int product = 1, n;
