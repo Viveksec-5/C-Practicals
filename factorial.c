@@ -17,7 +17,7 @@ int main()
         {
             product = product * i;
         }
-        printf("the factorial of this number is %d \n", product);
+        printf("The factorial of this number is %d \n", product);
     }
 
     return 0;
