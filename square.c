@@ -11,7 +11,6 @@ int main()
     scanf("%f %f", &a, &b);
     float arearectangle(float a, float b);
     printf("area: %f \n",  arearectangle(a,b));
-
     return 0;
 }
 
