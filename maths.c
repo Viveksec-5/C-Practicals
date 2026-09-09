@@ -24,5 +24,5 @@ float areacircle(float rad)
 }
 float arearectangle(float a, float b)
 {
-    return a * b;
+    return a*b;
 }
